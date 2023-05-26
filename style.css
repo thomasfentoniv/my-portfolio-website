@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  background-color: 9A8F97;
+}
+
+html, h1, h2, p {
+  font-family: Impact, "Times New Roman;
+  color: E9E3E6;
+}
+
+
+header > h1 {
+  color: C3BABA;
+}
+
+main > h2 {
+  color: E9E3E6;
+}
+
+main > h2,
+main > p,
+footer > p {
+  text-align: center;
+  font-family: Impact;
+}
+
+main > h1 {
+  margin: 0;
+  padding: 48px;
+}
+
+header,
+nav,
+main,
+footer {
+  font-family: "Times New Roman", sans-serif;
+}
+
+header h1 {
+  text-align: center;
+  font-size: 70px;
+  margin: 0;
+  font-family: Impact, "Times New Roman";
+}
+
+main {
+  width: 350px;
+  margin: 0;
+}
+
+main {
+  border: 3px solid #668284;
+  padding: 10px;
+  background-color: #B9D7D9;
+}
+
+footer p {
+  color: #668284;
+}
